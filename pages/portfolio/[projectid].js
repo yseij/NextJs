@@ -6,6 +6,8 @@ function ProtfolioProjectPage() {
   console.log(router.pathname)
   console.log(router.query)
 
+    
+
   return (
     <div>
       <h1> The Portfolio Project Page</h1>
